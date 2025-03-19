@@ -1,0 +1,2 @@
+ERROR:2025-03-19 01:00:01,934:ValueError occurred: invalid literal for int() with base 10: 'a'
+ERROR:2025-03-19 01:00:08,777:ZeroDivisionError occurred: Division by zero
